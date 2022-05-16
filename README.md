@@ -1,4 +1,4 @@
-# gutenberg-script
+# Download Gutenberg
 
 This script downloads all English [Project Gutenberg](https://www.gutenberg.org/) files, then organizes, removes duplicates, and converts the txt files to pdf.
 
